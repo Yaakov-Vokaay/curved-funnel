@@ -3,7 +3,7 @@
   "name": "Curved Funnel Chart",
   "description": "Funil com curvas orgânicas dinâmicas",
   "resources": {
-    "js": ["https://cdn.jsdelivr.net/gh/Yaakov-Vokaay/curved-funnel-looker@main/vis.js""],
+    "js": ["https://cdn.jsdelivr.net/gh/Yaakov-Vokaay/curved-funnel-looker@main/vis.js"],
     "css": []
   },
   "data": {
